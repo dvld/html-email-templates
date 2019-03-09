@@ -1,0 +1,33 @@
+<mjml>
+  <mj-body background-color="#f4f4f4" color="#55575d" font-family="Arial, sans-serif">
+    
+    <!-- header -->
+    <mj-section background-color="#c1272d" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+
+      <!-- centered single column with company logo -->
+      <mj-column>
+        
+        <mj-image align="center" padding="10px 25px" width="128px" src="http://gkq4.mjt.lu/img/gkq4/b/18rxz/1h3k4.png" alt="company logo" />
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section>
+
+      <mj-column>
+
+        <mj-carousel>
+          
+          <mj-carousel-image src="" />
+
+          <mj-carousel-image src="" />
+
+          <mj-carousel-image src="" />
+        </mj-carousel>
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
