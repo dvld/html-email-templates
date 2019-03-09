@@ -17,13 +17,14 @@
 
       <mj-column>
 
-        <mj-carousel>
-          
-          <mj-carousel-image src="" />
+        <mj-carousel border-radius="5px">
 
-          <mj-carousel-image src="" />
+          <mj-carousel-image src="https://picsum.photos/200/300?image=123" />
 
-          <mj-carousel-image src="" />
+          <mj-carousel-image src="https://picsum.photos/200/300?image=321" />
+
+          <mj-carousel-image src="https://picsum.photos/200/300?image=231" />
+
         </mj-carousel>
       </mj-column>
 
