@@ -21,11 +21,11 @@
 
         <mj-carousel border-radius="5px" align="center" padding="10px 25px">
 
-          <mj-carousel-image src="https://picsum.photos/200/150?image=132" />
+          <mj-carousel-image src="https://picsum.photos/350/250?image=132" />
 
-          <mj-carousel-image src="https://picsum.photos/200/150?image=321" />
+          <mj-carousel-image src="https://picsum.photos/350/250?image=321" />
 
-          <mj-carousel-image src="https://picsum.photos/200/150?image=231" />
+          <mj-carousel-image src="https://picsum.photos/350/250?image=231" />
 
         </mj-carousel>
 
