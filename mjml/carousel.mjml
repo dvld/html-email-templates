@@ -12,23 +12,87 @@
       </mj-column>
 
     </mj-section>
+    <!-- end of header -->
 
-    <mj-section>
+    <!-- image carousel -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
 
       <mj-column>
 
-        <mj-carousel border-radius="5px">
+        <mj-carousel border-radius="5px" align="center" padding="10px 25px">
 
-          <mj-carousel-image src="https://picsum.photos/200/300?image=123" />
+          <mj-carousel-image src="https://picsum.photos/200/150?image=132" />
 
-          <mj-carousel-image src="https://picsum.photos/200/300?image=321" />
+          <mj-carousel-image src="https://picsum.photos/200/150?image=321" />
 
-          <mj-carousel-image src="https://picsum.photos/200/300?image=231" />
+          <mj-carousel-image src="https://picsum.photos/200/150?image=231" />
 
         </mj-carousel>
+
       </mj-column>
 
     </mj-section>
+    <!-- end of carousel -->
+
+    <!-- single column image -->
+    <mj-section background-color="#ffffff">
+      
+      <mj-column>
+
+        <mj-image align="center" alt="Happy New Year!" container-background-color="#ffffff" padding="10px 25px" src="http://gkq4.mjt.lu/img/gkq4/b/18rxz/1hlvp.png" width="399px" />
+
+      </mj-column>
+
+    </mj-section>
+    <!-- end of single column -->
+
+    <!-- company message -->
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+
+      <mj-column>
+
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </mj-text>
+
+        <mj-image align="center" alt="Best wishes from the Clothes Team!" padding="10px 25px" src="http://gkq4.mjt.lu/img/gkq4/b/18rxz/1hlv8.png" width="142px" />
+
+      </mj-column>
+
+    </mj-section>
+    <!-- end of company message -->
+
+    <!-- single red column with text and link -->
+    <mj-section background-color="#C1272D" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+
+      <mj-column>
+
+        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding="10px 25px">
+
+          Created&nbsp;with&nbsp;<a style="color:#ffffff" href="#"><b>MJML</b></a>
+
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <!-- end of single red column -->
+
+    <!-- footer -->
+    <mj-section background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+
+      <mj-column>
+
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="11px" line-height="22px" padding="0px 20px">
+
+          [[DELIVERY_INFO]]
+
+        </mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <!-- end of footer -->
 
   </mj-body>
 </mjml>
